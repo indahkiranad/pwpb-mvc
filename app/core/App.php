@@ -2,7 +2,6 @@
 
 class App{
     
-<<<<<<< HEAD
   public function __construct() {
     $url = $this->parseURL();
     var_dump($url);
@@ -16,9 +15,4 @@ class App{
     return $url;
     }
   }
-=======
-    public function __construct() {
-        echo "Web MVC Siap Dijalankan!";
-      }
->>>>>>> ad74d43ae813facf27745845ce3aeea83b06926f
 }
